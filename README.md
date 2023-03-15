@@ -1,1 +1,2 @@
-# kaggle_Beginning_Competitions
+# Kaggle Beginning Competitions
+![capa](imagens/capa.jpg)
