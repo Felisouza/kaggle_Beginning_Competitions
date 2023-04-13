@@ -1,11 +1,9 @@
-python=3.10.9
+#python==3.10.9
 numpy
 pandas
-matplotlib.pyplot
 seaborn
-plotly.express
-plotly.graph_objects
-plotly.subplots
-sklearn.tree
-sklearn
-sklearn.model_selection
+plotly
+scikit-learn
+ipykernel
+pyyaml
+nbformat

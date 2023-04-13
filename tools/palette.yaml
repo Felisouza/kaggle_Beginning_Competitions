@@ -1,0 +1,9 @@
+titanic:
+  Survived : steelblue
+  Not survived : firebrick
+
+presentation:
+  - "#2E2E6B"
+  - '#F89AA6'
+  - '#FFC800'
+  - '#EDE4DB'
